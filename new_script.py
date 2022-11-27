@@ -3,3 +3,4 @@ print("\n")
 print("Polska mistrzem świata!!!")
 
 #update_added
+#graphic_added
